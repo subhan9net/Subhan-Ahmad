@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋, I'm Subhan Ahmad</h1>
-<h3 align="center">Hey there! I'm interested in marketing, psychology, technology, and strategy. I am currently honing my skills in Web Development (mainly in JavaScript)</h3>
+<h3 align="center">Hey there! I'm interested in marketing, psychology, technology, and strategy. <br>I am currently honing my skills in Web Development (mainly in JavaScript)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhanv9&label=Profile%20views&color=0e75b6&style=flat" alt="subhanv9" /> </p>
 
