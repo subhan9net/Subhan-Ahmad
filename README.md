@@ -18,8 +18,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhan9net&show_icons=true&locale=en&theme=tokyonight" alt="subhan9net" /></p>
 <br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhan9net&theme=tokyonight" alt="subhan9net" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhan9net&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="subhan9net" /></p>
 <br> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhan9net&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="subhan9net" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=subhan9net&theme=tokyonight" alt="subhan9net" /></p>
