@@ -5,7 +5,7 @@ Hey there! I'm Subhan, a content creator and a web developer (mainly frontend).<
 📧: subhan9.net@gmail.com
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subhan9net) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhan9net) 
 
 # 💻 Skills:
