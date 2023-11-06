@@ -1,4 +1,7 @@
-![Header](./cover.png)
+[![](https://visitcount.itsvg.in/api?id=subhan9net&icon=2&color=12)](https://visitcount.itsvg.in)
+
+
+![Header](./github-header-image.png)
 
 # 💫 About Me:
 Hey there! I'm Subhan, a content creator and a web developer (mainly frontend).<br>I'm currently learning MERN stack and JS frameworks.
@@ -19,5 +22,4 @@ Hey there! I'm Subhan, a content creator and a web developer (mainly frontend).<
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=subhan9net&icon=2&color=12)](https://visitcount.itsvg.in)
 
